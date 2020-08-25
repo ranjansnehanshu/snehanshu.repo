@@ -1,0 +1,448 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2018.1">
+  <Nodes>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="18" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Data to load Malaysia.xlsx
+Table=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Source system ID" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Vendor" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Vendor name" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_WString" />
+            <Field name="Vendior D-U-N-S Number" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Vendor Clear Date" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Vendor Clearing Document Number" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="NCC Code" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F8" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Company Code" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F10" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Country" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F12" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Vendor Country" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Fiscal year" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Cost Center" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F16" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_WString" />
+            <Field name="Order" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F18" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_WString" />
+            <Field name="Profit Center" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F20" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_WString" />
+            <Field name="G/L Account" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F22" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Purchase Order" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="PO Item" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Business Franchise" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="FI Document Line Item" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Accounting Document Number" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tax Code 1" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Tax Number 2" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="WBS element" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F31" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="WBS Element2" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F33" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Fund" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Item Text" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Clearing Doc.Number" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Posting Key" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Fiscal year/period" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Novartis Business Unit" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="F40" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Concatenated Account" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="NCC Code VX" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Debit/Credit Amount DC" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="Debit/Credit Amount LC PCA" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\Data to load Malaysia.xlsx|||`Sheet1$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="18" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>NCC to load.xlsx
+Table=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="NCC VX" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="Double" />
+            <Field name="NCC Description" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SP Code " size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="SP Description" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Global Spend Description" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Optional/Mandatory" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="CR" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Direct/Indirect" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="In/Out Scope" size="255" source="File: C:\Users\RANJASN1\OneDrive - Novartis Pharma AG\Work File\LITE Countries\alteryx automation\NCC to load.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="354" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="NCC Code" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="NCC VX" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_NCC Code VX" selected="True" type="V_String" size="19" />
+                <SelectField field="Left_WBS element" selected="False" />
+                <SelectField field="Left_WBS Element2" selected="False" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="438" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="IF [Global Spend Description] IN (&quot;Sponsorship&quot;,&quot;Grants&quot;,&quot;Registration Fees&quot;) AND [Vendior D-U-N-S Number] IN (&quot;HCOR&quot;, &quot;HOSP&quot;)&#xA;THEN &quot;No Action&quot;&#xA;ELSE &quot;Need to take Action&quot;&#xA;ENDIF" field="Action" size="225" type="V_String" />
+            <FormulaField expression="IF [Vendior D-U-N-S Number] IN (&quot;PUBL&quot;)&#xA;THEN &quot;Out Of Scope&quot; ELSE&#xA;&quot;In Scope&quot; ENDIF" field="Vendor InScope" size="1073741823" type="V_WString" />
+            <FormulaField expression="&quot;In Scope&quot;" field="NCC InScope" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF [Action] IN (&quot;No Action&quot;) THEN &quot;No&quot;&#xA;ELSE &quot;Yes&quot;&#xA;ENDIF" field="Findings" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF [Findings] IN (&quot;No&quot;) THEN &quot;All Good&quot; &#xA;ELSE &quot;Please confirm if the vendor type is correct&quot; &#xA;ENDIF" field="Comments" size="1073741823" type="V_WString" />
+            <FormulaField expression="IF [Comments] IN (&quot;All Good&quot;) THEN &quot;Yes&quot;&#xA;ELSE &quot;Awaiting Confirmation&quot;&#xA;ENDIF" field="Ready for Load" size="1073741823" type="V_WString" />
+            <FormulaField expression="&quot;&quot;" field="ID" size="1073741823" type="V_WString" />
+            <FormulaField expression="&quot;&quot;" field="Jasmine Comments" size="2147483647" type="V_String" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Action = IF [Global Spend Description] IN ("Sponsorship","Grants","Registration ...</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="90" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="NCC VX" selected="True" type="V_String" size="19" />
+            <SelectField field="NCC Description" selected="True" />
+            <SelectField field="SP Code " selected="True" />
+            <SelectField field="SP Description" selected="True" />
+            <SelectField field="Global Spend Description" selected="True" />
+            <SelectField field="Optional/Mandatory" selected="True" />
+            <SelectField field="CR" selected="True" />
+            <SelectField field="Direct/Indirect" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="210" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Vendor" selected="True" />
+            <SelectField field="Vendor name" selected="True" />
+            <SelectField field="Vendior D-U-N-S Number" selected="True" />
+            <SelectField field="Vendor Clear Date" selected="True" />
+            <SelectField field="Vendor Clearing Document Number" selected="True" />
+            <SelectField field="NCC Code" selected="True" />
+            <SelectField field="Company Code" selected="True" />
+            <SelectField field="Country" selected="True" />
+            <SelectField field="Vendor Country" selected="True" />
+            <SelectField field="Fiscal year" selected="True" />
+            <SelectField field="Cost Center" selected="True" />
+            <SelectField field="Order" selected="True" />
+            <SelectField field="Profit Center" selected="True" />
+            <SelectField field="G/L Account" selected="True" />
+            <SelectField field="Purchase Order" selected="True" />
+            <SelectField field="PO Item" selected="True" />
+            <SelectField field="Business Franchise" selected="True" />
+            <SelectField field="FI Document Line Item" selected="True" />
+            <SelectField field="Accounting Document Number" selected="True" />
+            <SelectField field="Tax Code 1" selected="True" />
+            <SelectField field="Tax Number 2" selected="True" />
+            <SelectField field="Fund" selected="True" />
+            <SelectField field="Item Text" selected="True" />
+            <SelectField field="Clearing Doc.Number" selected="True" />
+            <SelectField field="Posting Key" selected="True" />
+            <SelectField field="Fiscal year/period" selected="True" />
+            <SelectField field="Novartis Business Unit" selected="True" />
+            <SelectField field="Concatenated Account" selected="True" />
+            <SelectField field="NCC Code VX" selected="True" />
+            <SelectField field="Debit/Credit Amount DC" selected="True" />
+            <SelectField field="Debit/Credit Amount LC PCA" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="510" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\RANJASN1\AppData\Local\Temp\1\Engine_9816_ac26b71271dc40c0933ef1d0bf377bc8_\Engine_9108_518a388aebac4aeea98e03495246a2a4_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings>
+        <Position x="282" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"Vendior D-U-N-S Number"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings>
+        <Position x="162" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="List Box (11)">"Global Spend Description"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="114" y="30" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[Vendor Country] = "Malaysia"</Expression>
+          <Mode>Custom</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Vendor Country</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2020-08-23 12:35:50</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2020-08-23 12:35:50</StartDate>
+              <EndDate>2020-08-23 12:35:50</EndDate>
+              <Operand>
+              </Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Vendor Country] = "Malaysia"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="Join" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="14" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="13" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="13" Connection="Output26" />
+      <Destination ToolID="6" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output26" />
+      <Destination ToolID="6" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="15" Connection="True" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>LITE Automation</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
